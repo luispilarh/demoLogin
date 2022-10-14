@@ -52,8 +52,8 @@ Para probar la app abriremos en el navegador las siguientes url
 * http://localhost:8080/user nos devolvera true para los 2 usuarios creados
 * http://localhost:8080/admin solo nos devolvera true para el usario admin
 
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+![img.png](imgs\img.png)
+![img_1.png](imgs\img_1.png)
+![img_2.png](imgs\img_2.png)
 
 
